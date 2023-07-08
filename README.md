@@ -1,5 +1,5 @@
 # magento-add-multiple-products-to-cart
-This Add Multiple Products To Cart extension allows customers to add many different products to the cart at once without visiting individual product pages, customers can directly view the product list with the quantity, option for each product.  This extension helps customers save time, customers shop faster, improve customer shopping experience.
+Magento 2 Add Multiple Products To Cart extension lets customers shop faster by adding multiple products to the cart from one page, without going to each product page. Customers can see the product list with the quantity and option for each item.
 
 Please go to https://magehq.com/add-multiple-products-to-cart.html buy extension
 
